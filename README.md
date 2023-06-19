@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @robotboss001
-- I'm the creator of the minecraft's modapack <a href="https://www.curseforge.com/minecraft/modpacks/robossfactory1" traget="_blank">ROBOSS Factory I</a>
+[SYSTEM]starting ...
+[R0B0SS]Developer and geek
+[R0B0SS]The creator of R0B0SS Factory I
+>_
